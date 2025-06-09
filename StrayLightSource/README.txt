@@ -2,7 +2,7 @@ Stray Light Source Example Images
 Imatest, LLC
 --
 
-This folder contains example images of a small, bright light source. The source was collimated, with an angular diameter of 0.11 degrees. The camera was deliberately overexposed to reveal stray light (flare) in the image. The original 12-bit RAW image were demosaiced and converted to linear 16-bit RGB format by applying a 4-bit left shift.
+This folder contains example images of a small, bright light source. The source was collimated, with an angular diameter of 0.11 degrees. The camera was deliberately overexposed to reveal stray light (flare) in the image. The original 12-bit RAW image data were demosaiced and converted to linear 16-bit RGB format by applying a 4-bit left shift.
 
 Each image filename includes the field angle of the light source with respect to the camera (e.g., -24_degrees_1.png).
 
